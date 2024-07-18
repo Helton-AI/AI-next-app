@@ -6,6 +6,7 @@ Create a new ".env" file following the example shown in ".env.example" and enter
 The project requires the following environment variables to be input:
 ```env
 OPENAI_API_KEY=
+WEATHER_API_KEY=
 ```
 
 ## Getting Started
